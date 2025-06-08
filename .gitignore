@@ -1,0 +1,45 @@
+# Maven output
+/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse (if someone opens it in Eclipse)
+/.project
+.classpath
+.settings/
+.loadpath
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+*.env
+
+# JARs, WARs, etc.
+/*.jar
+/*.war
+/*.ear
+
+# Others
+dependency-reduced-pom.xml
+*.swp
